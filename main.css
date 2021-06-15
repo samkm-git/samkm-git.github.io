@@ -55,6 +55,6 @@ button#go, button#share-btn {
   border-color: transparent;
   margin-left: 1%;
 }
-#share-btn {
-  /* display: none; */
+#test-btn {
+  display: none;
 }
